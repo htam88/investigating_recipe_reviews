@@ -59,7 +59,7 @@ By taking these steps, we make our data more usable to answer our question.
 
 ### Univariate Analysis
 
-<iframe src="assets/uniivariate_plot1.html" width=800 height=600 frameBorder=0></iframe>
+<iframe src="assets/univariate_plot1.html" width=800 height=600 frameBorder=0></iframe>
 
 <iframe src="assets/univariate_plot2.html" width=800 height=600 frameBorder=0></iframe>
 
